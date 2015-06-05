@@ -1,0 +1,21 @@
+1) Summon Jesse with left mouse click
+   Summon James with right mouse click
+   Summon Lightning with scroll wheel click
+2) Jesse Animation appears, behaves like vein, spawns Meowth
+   James Animation appears, behaves like vein, spawns Meowth
+   Lightning animation appears, removes entity at mouse location
+3) Spawns Meowth if meowth is within a certain distance meowth will be sped up
+   Spawns Meowth if meowth is within a certain distance meowth will be sped up
+   if meowth is within a certain distance of both Jesse and James meowth will be sped up greatly
+   Removes entities
+4) Meowth behaves like a blob and tries to catch pikachu
+   
+
+notes) 
+image change no functionality change
+
+miner -> pikachu
+Ore  -> rare candy
+OreBlob -> mew 
+Vein -> tree
+blacksmith -> pokemon center
